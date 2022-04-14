@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.tej{
+    margin-top: 10px;
+    height: 180px;
+    width: 400px;
+    background-color: aqua;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin-left: 35%;
+
+} 
+.tej h1{
+    color: red;
+    padding: 10px 10px 20px 10px;
+}
+.tej .a2{
+    padding:10px 0px 10px 0;
+}
+
+.tej .a3{
+    display: inline-flex;
+    
+}
+#counterValue{
+    margin-right: 5px;
+    background-color: white;
+}
+.tej .a3 button{
+    padding: 1px 4px 1px 4px;
+}
+.tej .a3 p{
+    padding: 0px 3px 0px 3px;
+}
